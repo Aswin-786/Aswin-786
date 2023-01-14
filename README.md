@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="center"" alt="Coding" width="800" height="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-786&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin-786" alt="aswin-786" /></a> </p>
