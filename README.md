@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-786&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-786" /> </p> -->
 
 
-- 🌱 I’m currently learning **Tailwind CSS, React.**
+- 🌱 I’m currently learning **React.**
 
 - 📫 How to reach me **aswinkrishna363@gmail.com**
 
