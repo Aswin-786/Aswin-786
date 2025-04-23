@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes  React Js, TailwindCSS, Bootstrap, Firebase and JavaScript and I am always learning and expanding my skills. Currently, I am exploring Next.js and its potential in web development.
+I am a Flull stack developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes Next.js, React Js, TailwindCSS, Bootstrap, node.js, express.js, mongodb, supabse, AWS, flutter, dart, typescript, langchain, vector db, Firebase and JavaScript and I am always learning and expanding my skills. Currently, I am exploring Next.js and its potential in web development.
 
 
 <h3 align="left">Connect with me:</h3>
